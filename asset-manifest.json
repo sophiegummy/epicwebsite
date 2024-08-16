@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/epicwebsite/static/css/main.b4909ee5.css",
-    "main.js": "/epicwebsite/static/js/main.c25f0f63.js",
+    "main.js": "/epicwebsite/static/js/main.f2b21032.js",
     "static/js/453.b2b3cc33.chunk.js": "/epicwebsite/static/js/453.b2b3cc33.chunk.js",
     "static/media/awesomevideo.mp4": "/epicwebsite/static/media/awesomevideo.f141031e3ba4ee1b6740.mp4",
     "static/media/Higuog_sora.webp": "/epicwebsite/static/media/Higuog_sora.1384abae5543b4a81e97.webp",
     "index.html": "/epicwebsite/index.html",
     "main.b4909ee5.css.map": "/epicwebsite/static/css/main.b4909ee5.css.map",
-    "main.c25f0f63.js.map": "/epicwebsite/static/js/main.c25f0f63.js.map",
+    "main.f2b21032.js.map": "/epicwebsite/static/js/main.f2b21032.js.map",
     "453.b2b3cc33.chunk.js.map": "/epicwebsite/static/js/453.b2b3cc33.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4909ee5.css",
-    "static/js/main.c25f0f63.js"
+    "static/js/main.f2b21032.js"
   ]
 }
