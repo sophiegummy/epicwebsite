@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import React, { Component } from 'react'
+import awesomevideo from './images/awesomevideo.mp4'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <a className="Sophie" href="http://twitter.com/breadsoph">Sophie</a>
+      <br></br>                 
+      <a className="Gummy" href="http://twitter.com/kinggunnmy">Gummy</a>
+      <br></br>
+      <video loop autoPlay muted width="750" height="500" controls >
+        <source src={awesomevideo} type="video/mp4"/>
+      </video>
+
     </div>
   );
 }
